@@ -124,18 +124,13 @@ Raw CSV Files → SQL (SQLiteOnline) → Python (Google Colab) → Dashboard (Go
 ## 📁 Repository Structure
 ```
 ecommerce-sales-analysis/
-├── sql/
-│   ├── revenue_trend.sql
-│   ├── top_categories.sql
-│   ├── delivery_performance.sql
-│   └── rfm_analysis.sql
-├── notebooks/
-│   └── ecommerce_analysis.ipynb
 ├── charts/
 │   ├── story1_revenue_trend.png
 │   ├── story2_categories.png
 │   ├── story3_delivery.png
 │   └── story4_rfm_segments.png
+├── notebooks/
+│   └── ecommerce_analysis.ipynb
 └── README.md
 ```
 
